@@ -1,0 +1,22 @@
+[
+  {
+    "companies": [
+      {
+        "companyName": "Contentstack",
+        "logo": "https://www.contentstack.com/favicon.ico",
+        "url": "/companies/contentstack"
+      },
+      {
+        "companyName": "RawEngineering",
+        "logo": "https://www.raweng.com/icons/icon-144x144.png",
+        "url": "/companies/rawengg"
+      },
+      {
+        "companyName": "Surfboard",
+        "logo": "https://www.surfboardventures.com/favicon.ico",
+        "url": "/companies/surfboard"
+      }
+    ],
+    "backgroundImage": "https://img.freepik.com/free-photo/minimalist-grey-wall-background_23-2148422266.jpg?size=626&ext=jpg&ga=GA1.2.1040338807.1611122532"
+  }
+]
